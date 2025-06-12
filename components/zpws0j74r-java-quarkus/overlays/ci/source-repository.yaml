@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zpws0j74r-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zpws0j74r-java-quarkus
